@@ -1,0 +1,20 @@
+.filter-content {
+    height: 200px;
+    background-color: var(--dsf-bg-color-tertiary);
+    border: 1px;
+    border-radius: 5px;
+}
+
+.preco-input{
+    height: 40px;
+    width: 200px;
+    border: 1px solid var(--dsf-color-input);
+    border-radius: 5px;
+    color: var(--dsf-color-input);
+    margin: 10px 20px;
+    margin-top: 15px;
+}
+
+.mt-20px{
+    margin-top: 20px;
+}

@@ -1,0 +1,31 @@
+.listing-card{
+    
+    border: 1px;
+    border-radius: 5px;
+    background-color: var(--dsf-bg-color-tertiary);
+    margin-top: 20px;
+}
+
+.product-listing{
+    height: 53px;
+    border: 1px solid var(--dsf-color-border);
+    border-radius: 5px;
+    margin: 20px;
+    margin-bottom: 20px;
+}
+
+.product-listing h3{
+    font-weight: 400;
+    font-size: 12px;
+    color: var(--dsf-text-color-tertiary);
+}
+
+.product-listing p{
+    color: var(--dsf-text-color-secondary);
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.cart{
+    margin-top: 20px;
+}
